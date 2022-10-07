@@ -1,0 +1,48 @@
+/**
+ * @Main scss for (Template/Project Name)
+ * @project     - Project Name
+ * @author      - 
+ * @created_by  - kawsar bin siraj
+ * @created_at  - 
+ * @modified_by -
+ */
+/* fonts import */
+@import url("../fonts/font.css");
+@import url("../fonts/font2.css");
+/* fonts import -END */
+/* reset, root */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fff; }
+
+:root {
+  --skyblue: #00BBFF;
+  --black: #00374A;
+  --black1: #07222D;
+  --gray: #4D5B61;
+  --gray1: #7E8588;
+  --gray2: #A0A7A9;
+  --monalisa: #FF8E8E;
+  --blue:#0085FF;
+  --green:#54CCA1;
+  --orange:#FFA826;
+  --pink: #FF5592;
+  --light-cyan: #DCF6FF;
+  --misty-rose: #FFEBEB;
+  --alice-blue: #FFEBEB;
+  --humming-bird: #DCF4EC;
+  --corn-silk: #FFF2DE;
+  --lavender-blush: #FFEDF3;
+  --pattens-blue: #F0F6F9; }
+
+/* reset, root - END */
+/* helper , base classes */
+/* helper , base classes  - END*/
+
+/*# sourceMappingURL=style.css.map */
